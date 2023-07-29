@@ -13,12 +13,12 @@ json:
     - Software Developer
     - Student
     - Really cool guy
-  cat: assets/cat.jpg
   contact:
     phone: +1 605 475 6968
     email: lucasnielsen.contact@gmail.com
-  discord: https://discord.gg/SQPzzduszE
+  
   profiles:
+    discord: https://discord.gg/SQPzzduszE
     github: https://github.com/lucasnielsen
     twitter: https://twitter.com/luke_nielsenn
     linkedin: https://www.linkedin.com/in/lucas-nielsen-5097721b1/
