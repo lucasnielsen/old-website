@@ -18,11 +18,11 @@ json:
     email: lucasnielsen.contact@gmail.com
   
   profiles:
-    discord: https://discord.gg/SQPzzduszE
     github: https://github.com/lucasnielsen
-    twitter: https://twitter.com/luke_nielsenn
-    linkedin: https://www.linkedin.com/in/lucas-nielsen-5097721b1/
     stackoverflow: https://stackoverflow.com/users/22304907/lucas
+    linkedin: https://www.linkedin.com/in/lucas-nielsen-5097721b1/
+    twitter: https://twitter.com/lucasiscoding
+    discord: https://discord.gg/SQPzzduszE
 
 exclude:
   - LICENSE
